@@ -1,4 +1,5 @@
 import React from'react';
+import "./Slider.css";
 
 const slidesInfo = [
     {
@@ -19,7 +20,7 @@ const slidesInfo = [
 ]
 
 const slides = slidesInfo.map(slide =>(
-    <div clasName="slide-container">
+    <div className="slide-container">
         <img src={slide.src} alt={slide.alt}/>
         <div className="slide-desc">
         <span>{slide.desc}</span>
