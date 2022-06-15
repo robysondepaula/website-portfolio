@@ -13,7 +13,7 @@ const About = () => {
           suscipit eaque?
         </p>
       </div>
-      <div clasName="about-img">
+      <div className="about-img">
         <img src="https://images.pexels.com/photos/840996/pexels-photo-840996.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="about"/>
 
       </div>
