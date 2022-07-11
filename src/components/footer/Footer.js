@@ -6,14 +6,14 @@ const Footer = () => {
      <footer className="footer">
      <div className="footer-info">
       <h1>Robyson De Paula</h1>
-      <p>Kitchener ON</p>
+      <p>Kitchener-ON</p>
       </div>
       <div className="footer-contact">
           <h3>Contact me</h3>
       </div>
       <div className="footer-sns">
           <div className='design-by'>
-              <br></br><br></br>Design by Robyson De Paula
+              <br></br><br></br>Design by Robyson De Paula.
           </div>
           <div className="sns-links">
               <a href="https://www.linkedin.com/in/robysondepaula/" rel="noopener noreferrer">
